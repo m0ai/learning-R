@@ -13,4 +13,5 @@ data(package='rpart') # 데이터 목록 조회
 
 rpart 패키지란? 
 - Classification and Regression Trees
-- 의사결정나무 알고리즘을 구현한 패키
+-의사결정나무 알고리즘을 구현한 패키
+- (R 관련 논문 조회 사이트)[www.jstatsoft.org R]
